@@ -3,7 +3,7 @@ channels:
     - conda-forge
     - r
 dependencies:
-    - r-base=4.0.5
+    - r-base=4.1.0
     - bioconductor-genesis=2.22.1
     - r-base=4.0.5
     - r-tibble=3.1.3
